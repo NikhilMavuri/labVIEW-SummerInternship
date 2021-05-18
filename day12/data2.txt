@@ -1,0 +1,2 @@
+Today is the day 12 and we are doing a file input output section
+and this is data2

@@ -1,0 +1,20 @@
+data acquisition using ni daqmx
+ NI max
+ Data acquire using ni DAQ assistant
+ Task based measurement
+ API based measurement
+ storage
+
+
+will try 
+temp 
+volt
+
+simulate a virtual
+  ni myDAQ(educational DAQ)
+  pic 6022
+
+
+1 channel 1 sample
+1 channel n/10/100/1000 sample
+n/1/2/3 channel n sample
